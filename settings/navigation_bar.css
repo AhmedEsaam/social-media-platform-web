@@ -1,0 +1,29 @@
+#nav{
+    border: indianred 2px solid;
+    height: 45px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background-color: indigo;
+}
+#logo-home{
+    background-color: transparent;
+    border: 0;
+    height: 45px;
+    width: 45px;
+}
+#search{
+    background-color: transparent;
+    border: 0;
+    position:relative;
+    left:370px;
+    bottom:19px;
+}
+#navbuttons >button {
+    background-color: transparent;
+    border: 0;
+    margin:20px;
+    position: relative;
+    left: 950px;
+    bottom: 70px;
+}
